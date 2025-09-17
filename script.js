@@ -30,8 +30,8 @@ let temperature = 25;
 console.log("Today's temperature is " + temperature + "°C");
 
 //  Full name
-let firstName = "John";
-let lastName = "Doe";
+let firstName = "Johbosco";
+let lastName = "Okeke";
 let fullName = firstName + " " + lastName;
 console.log("Full Name:", fullName);
 
@@ -51,3 +51,4 @@ let balance = 100;
 let deposit = 50;
 let newBalance = balance + deposit;
 console.log("New Balance:", newBalance);
+
